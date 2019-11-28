@@ -45,7 +45,6 @@
     "body-parser": "^1.19.0",
     "consola": "^2.9.0",
     "cookie": "^0.4.0",
-    "defu": "^0.0.3",
     "dotprop": "^1.2.0",
     "is-https": "^1.0.0",
     "js-cookie": "^2.2.0",
